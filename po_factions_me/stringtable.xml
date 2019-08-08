@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="p_opf_me">
+    <Package name="namesp_opf_me">
+        <Container name="Names">
+            <Key ID="STR_LOP_U_AA_Fatigue_01_slv">
+                <English>[PO]Combat Uniform (Afghan/Spec4ce&amp;Tan/Rolled Up</English>
+                <Original>[PO]Combat Uniform (Afghan/Spec4ce&amp;Tan/Rolled Up</Original>
+                <Russian>[PO]Форма АНА песочная (закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AA_Fatigue_01">
+                <English>[PO]Combat Uniform (Afghan/Spec4ce&amp;Tan)</English>
+                <Original>[PO]Combat Uniform (Afghan/Spec4ce&amp;Tan)</Original>
+                <Russian>[PO]Форма АНА песочная</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AA_Fatigue_02">
+                <English>[PO]Combat Uniform (Afghan/Spec4ce&amp;Black)</English>
+                <Original>[PO]Combat Uniform (Afghan/Spec4ce&amp;Black)</Original>
+                <Russian>[PO]Форма АНА черная</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AA_Fatigue_02_slv">
+                <English>[PO]Combat Uniform (Afghan/Spec4ce&amp;Black/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (Afghan/Spec4ce&amp;Black/Rolled Up)</Original>
+                <Russian>[PO]Форма АНА черная (закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AA_Fatigue_03">
+                <English>[PO]Policeman Coveralls (Afghan)</English>
+                <Original>[PO]Policeman Coveralls (Afghan)</Original>
+                <Russian>[PO]Форма полиции Афганистана</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AA_Fatigue_03_slv">
+                <English>[PO]Policeman Coveralls (Afghan/Rolled Up)</English>
+                <Original>[PO]Policeman Coveralls (Afghan/Rolled Up)</Original>
+                <Russian>[PO]Форма полиции Афганистана (закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ANA">
+                <English>[PO]6B27M ANA</English>
+                <Original>[PO]6B27M ANA</Original>
+                <Russian>[PO]6Б27М АНА</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_ANA">
+                <English>[PO]6B27M ANA (ESS)</English>
+                <Original>[PO]6B27M ANA (ESS)</Original>
+                <Russian>[PO]6Б27М АНА (ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_WDL">
+                <English>[PO]6B27M Woodland</English>
+                <Original>[PO]6B27M Woodland</Original>
+                <Russian>[PO]6Б27М Вудланд</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_WDL">
+                <English>[PO]6B27M Woodland (ESS)</English>
+                <Original>[PO]6B27M Woodland (ESS)</Original>
+                <Russian>[PO]6Б27М Вудланд (ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Carrier_OLV">
+                <English>[PO]Vest (olive)</English>
+                <Original>[PO]Vest (olive)</Original>
+                <Russian>[PO]Жилет (Олива)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Carrier_TAN">
+                <English>[PO]Vest (tan)</English>
+                <Original>[PO]Vest (tan)</Original>
+                <Russian>[PO]Жилет (Песочный)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Carrier_ANA">
+                <English>[PO]Vest (ANA)</English>
+                <Original>[PO]Vest (ANA)</Original>
+                <Russian>[PO]Жилет (АНА)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Carrier_WDL">
+                <English>[PO]Vest (woodland)</English>
+                <Original>[PO]Vest (woodland)</Original>
+                <Russian>[PO]Жилет (Вудланд)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Carrier_BLK">
+                <English>[PO]Vest (black)</English>
+                <Original>[PO]Vest (black)</Original>
+                <Russian>[PO]Жилет (Черный)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierLite_OLV">
+                <English>[PO]GA Carrier Lite (olive)</English>
+                <Original>[PO]GA Carrier Lite (olive)</Original>
+                <Russian>[PO]GA облегченный жилет (Олива)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierLite_TAN">
+                <English>[PO]GA Carrier Lite (desert tan)</English>
+                <Original>[PO]GA Carrier Lite (desert tan)</Original>
+                <Russian>[PO]GA облегченный жилет (Песочный)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierLite_ANA">
+                <English>[PO]GA Carrier Lite (ANA camo)</English>
+                <Original>[PO]GA Carrier Lite (ANA camo)</Original>
+                <Russian>[PO]GA облегченный жилет (АНА)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierLite_WDL">
+                <English>[PO]GA Carrier Lite (woodland camo)</English>
+                <Original>[PO]GA Carrier Lite (woodland camo)</Original>
+                <Russian>[PO]GA облегченный жилет (Вудланд)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierRig_OLV">
+                <English>[PO]GA Carrier Rig (olive)</English>
+                <Original>[PO]GA Carrier Rig (olive)</Original>
+                <Russian>[PO]GA жилет (Олива)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierRig_TAN">
+                <English>[PO]GA Carrier Rig (desert tan)</English>
+                <Original>[PO]GA Carrier Rig (desert tan)</Original>
+                <Russian>[PO]GA жилет (Песочный)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierRig_ANA">
+                <English>[PO]GA Carrier Rig (ANA camo)</English>
+                <Original>[PO]GA Carrier Rig (ANA camo)</Original>
+                <Russian>[PO]GA жилет (АНА)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierRig_WDL">
+                <English>[PO]GA Carrier Rig (woodland camo)</English>
+                <Original>[PO]GA Carrier Rig (woodland camo)</Original>
+                <Russian>[PO]GA жилет (Вудланд)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_01">
+                <English>[PO]Combat Uniform (Iraqi/3CD)</English>
+                <Original>[PO]Combat Uniform (Iraqi/3CD)</Original>
+                <Russian>[PO]Форма иракской армии (3CD)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_01_slv">
+                <English>[PO]Combat Uniform (Iraqi/3CD/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (Iraqi/3CD/Rolled Up)</Original>
+                <Russian>[PO]Форма иракской армии (3CD/закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_02">
+                <English>[PO]Combat Uniform (Iraqi/M81)</English>
+                <Original>[PO]Combat Uniform (Iraqi/M81)</Original>
+                <Russian>[PO]Форма иракской армии (М81)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_02_slv">
+                <English>[PO]Combat Uniform (Iraqi/M81/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (Iraqi/M81/Rolled Up)</Original>
+                <Russian>[PO]Форма иракской армии (М81/закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_03">
+                <English>[PO]Combat Uniform (Iraqi/Marpat)</English>
+                <Original>[PO]Combat Uniform (Iraqi/Marpat)</Original>
+                <Russian>[PO]Форма иракской армии (Марпат)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_IA_Fatigue_03_slv">
+                <English>[PO]Combat Uniform (Iraqi/Marpat/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (Iraqi/Marpat/Rolled Up)</Original>
+                <Russian>[PO]Форма иракской армии (Марпат/закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_TRI">
+                <English>[PO]6B27M 3CD</English>
+                <Original>[PO]6B27M 3CD</Original>
+                <Russian>[PO]6Б27М 3CD</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_TRI">
+                <English>[PO]6B27M 3CD (ESS)</English>
+                <Original>[PO]6B27M 3CD (ESS)</Original>
+                <Russian>[PO]6Б27М 3CD (ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierLite_TRI">
+                <English>[PO]GA Carrier Lite (3CD)</English>
+                <Original>[PO]GA Carrier Lite (3CD)</Original>
+                <Russian>[PO]GA облегченный жилет (3CD)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_CarrierRig_TRI">
+                <English>[PO]GA Carrier Rig (3CD)</English>
+                <Original>[PO]GA Carrier Rig (3CD)</Original>
+                <Russian>[PO]GA жилет (3CD)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PESH_Fatigue_01">
+                <English>[PO]Combat Uniform (Kurdish/M81)</English>
+                <Original>[PO]Combat Uniform (Kurdish/M81)</Original>
+				<Russian>[PO]Форма Пешмерги (М81)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PESH_Fatigue_01_slv">
+                <English>[PO]Combat Uniform (Kurdish/M81/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (Kurdish/M81/Rolled Up)</Original>
+				<Russian>[PO]Форма Пешмерги (М81/закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PESH_Fatigue_02">
+                <English>[PO]Combat Uniform (Kurdish/Olive)</English>
+                <Original>[PO]Combat Uniform (Kurdish/Olive)</Original>
+				<Russian>[PO]Форма Пешмерги (Олива)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PESH_Fatigue_03">
+                <English>[PO]Combat Uniform (Kurdish/Tan)</English>
+                <Original>[PO]Combat Uniform (Kurdish/Tan)</Original>
+				<Russian>[PO]Форма Пешмерги (Песочная)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_M81">
+                <English>[PO]6B27M M81</English>
+                <Original>[PO]6B27M M81</Original>
+                <Russian>[PO]6B27M М81</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_M81">
+                <English>[PO]6B27M M81 (ESS)</English>
+                <Original>[PO]6B27M M81 (ESS)</Original>
+				<Russian>[PO]6B27M М81 (ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Beret_Pesh">
+                <English>[PO]Beret Peshmerga</English>
+                <Original>[PO]Beret Peshmerga</Original>
+                <Russian>[PO]Берет Пешмерги</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PMC_Fatigue_01">
+                <English>[PO]Combat Uniform (PMC 01)</English>
+                <Original>[PO]Combat Uniform (PMC 01)</Original>
+                <Russian>[PO]Форма ЧВК 01</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PMC_Fatigue_02">
+                <English>[PO]Combat Uniform (PMC 02)</English>
+                <Original>[PO]Combat Uniform (PMC 02)</Original>
+                <Russian>[PO]Форма ЧВК 02</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PMC_Fatigue_03">
+                <English>[PO]Combat Uniform (PMC 03)</English>
+                <Original>[PO]Combat Uniform (PMC 03)</Original>
+                <Russian>[PO]Форма ЧВК 03</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_PMC_Fatigue_04">
+                <English>[PO]Combat Uniform (PMC 04)</English>
+                <Original>[PO]Combat Uniform (PMC 04)</Original>
+                <Russian>[PO]Форма ЧВК 04</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AM_Fatigue_01">
+                <English>[PO]Guerilla Coveralls (Taliban 01)</English>
+                <Original>[PO]Guerilla Coveralls (Taliban 01)</Original>
+                <Russian>[PO]Партизанская форма (Талибан 01)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AM_Fatigue_02">
+                <English>[PO]Guerilla Coveralls (Taliban 02)</English>
+                <Original>[PO]Guerilla Coveralls (Taliban 02)</Original>
+                <Russian>[PO]Партизанская форма (Талибан 02)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AM_Fatigue_03">
+                <English>[PO]Guerilla Coveralls (Taliban 03)</English>
+                <Original>[PO]Guerilla Coveralls (Taliban 03)</Original>
+                <Russian>[PO]Партизанская форма (Талибан 03)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AM_Fatigue_04">
+                <English>[PO]Guerilla Coveralls (Taliban 04)</English>
+                <Original>[PO]Guerilla Coveralls (Taliban 04)</Original>
+                <Russian>[PO]Партизанская форма (Талибан 04)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Pakol">
+                <English>[PO]Pakol hat</English>
+                <Original>[PO]Pakol hat</Original>
+                <Russian>[PO]Паколь</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Turban_mask">
+                <English>[PO]Turban + mask</English>
+                <Original>[PO]Turban + mask</Original>
+                <Russian>[PO]Тюрбан и маска</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Turban">
+                <English>[PO]Turban</English>
+                <Original>[PO]Turban</Original>
+                <Russian>[PO]Тюрбан</Russian>
+            </Key>
+            <Key ID="STR_LOP_6sh46">
+                <English>[PO]6Sh46</English>
+                <Original>[PO]6Sh46</Original>
+                <Russian>[PO]6Ш46</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ISTS_Fatigue_01">
+                <English>[PO]Guerilla Coveralls (ISTS 01)</English>
+                <Original>[PO]Guerilla Coveralls (ISTS 01)</Original>
+                <Russian>[PO]Одежда Исламского государства 01</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ISTS_Fatigue_02">
+                <English>[PO]Guerilla Coveralls (ISTS 02)</English>
+                <Original>[PO]Guerilla Coveralls (ISTS 02)</Original>
+                <Russian>[PO]Одежда Исламского государства 02</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ISTS_Fatigue_03">
+                <English>[PO]Guerilla Coveralls (ISTS 03)</English>
+                <Original>[PO]Guerilla Coveralls (ISTS 03)</Original>
+                <Russian>[PO]Одежда Исламского государства 03</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ISTS_Fatigue_04">
+                <English>[PO]Guerilla Coveralls (ISTS 04)</English>
+                <Original>[PO]Guerilla Coveralls (ISTS 04)</Original>
+                <Russian>[PO]Одежда Исламского государства 04</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Shemag_BLK">
+                <English>[PO]Shemag (black)</English>
+                <Original>[PO]Shemag (black)</Original>
+                <Russian>[PO]Шемаг (чёрный)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TAK_Civ_Fatigue_01">
+                <English>[PO]Civilian Clothes (Middle East 01)</English>
+                <Original>[PO]Civilian Clothes (Middle East 01)</Original>
+                <Russian>[PO]Гражданская одежда (ближневосточная 01)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TAK_Civ_Fatigue_02">
+                <English>[PO]Civilian Clothes (Middle East 02)</English>
+                <Original>[PO]Civilian Clothes (Middle East 02)</Original>
+                <Russian>[PO]Гражданская одежда (ближневосточная 01)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TAK_Civ_Fatigue_03">
+                <English>[PO]Civilian Clothes (Middle East 03)</English>
+                <Original>[PO]Civilian Clothes (Middle East 03)</Original>
+                <Russian>[PO]Гражданская одежда (ближневосточная 01)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TAK_Civ_Fatigue_04">
+                <English>[PO]Civilian Clothes (Middle East 04)</English>
+                <Original>[PO]Civilian Clothes (Middle East 04)</Original>
+                <Russian>[PO]Гражданская одежда (ближневосточная 01)</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_TL">
+                <English>Team Coordinator</English>
+                <Original>Team Coordinator</Original>
+                <Russian>Координатор</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_SL">
+                <English>Squad Leader</English>
+                <Original>Squad Leader</Original>
+                <Russian>Командир отряда</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_Rifleman">
+                <English>Bodyguard (M4)</English>
+                <Original>Bodyguard (M4)</Original>
+                <Russian>Телохранитель (М4)</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_Rifleman2">
+                <English>Bodyguard (M136)</English>
+                <Original>Bodyguard (M136)</Original>
+                <Russian>Телохранитель (М136)</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_AT">
+                <English>AT Specialist</English>
+                <Original>AT Specialist</Original>
+                <Russian>Специалист с ПТ</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_AT_Asst">
+                <English>AT Assistant</English>
+                <Original>AT Assistant</Original>
+                <Russian>Помщник специалиста с ПТ</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_MG">
+                <English>Machine Gunner (M249)</English>
+                <Original>Machine Gunner (M249)</Original>
+                <Russian>Пулемётчик (М249)</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_Engineer">
+                <English>Field Technican</English>
+                <Original>Field Technican</Original>
+                <Russian>Полевой техник</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_Press">
+                <English>Press</English>
+                <Original>Press</Original>
+                <Russian>Журналист</Russian>
+            </Key>
+			<Key ID="STR_LOP_PMC_Infantry_Cam">
+                <English>Cam operator</English>
+                <Original>Cam operator</Original>
+                <Russian>Оператор камеры</Russian>
+            </Key>
+			<Key ID="STR_LOP_ISTS_Infantry_Rifleman_3">
+                <English>Guerilla (M136)</English>
+                <Original>Guerilla (M136)</Original>
+                <Russian>Партизан (М136)</Russian>
+            </Key>
+        </Container>
+    </Package>
+</Project>

@@ -1,0 +1,6 @@
+﻿///<'po_factions_eu.pbo' properties via Mikero's dos tools, dll version 7.16>///
+prefix=po_factions_eu
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: '0EDD54ED718CCC2027D87DB36500555EBFCE00CF'
+//////</properties>//////

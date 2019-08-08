@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="p_opf_fic">
+    <Package name="namesp_opf_fic">
+        <Container name="Names">
+            <Key ID="STR_LOP_U_CDF_Fatigue_01">
+                <English>[PO]Combat Uniform (CDF)</English>
+                <Original>[PO]Combat Uniform (CDF)</Original>
+                <Russian>[PO]Форма ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Fieldcap_CDF">
+                <Original>[PO]Field Cap CDF</Original>
+                <English>[PO]Field Cap CDF</English>
+                <Russian>[PO]Кепка ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_CDF">
+                <Original>[PO]6B27M CDF</Original>
+                <English>[PO]6B27M CDF</English>
+                <Russian>[PO]6Б27М ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_CDF">
+                <Original>[PO]6B27M CDF(ESS)</Original>
+                <English>[PO]6B27M CDF(ESS)</English>
+                <Russian>[PO]6Б27М ЧСО(ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_CDF">
+                <Original>[PO]6B23 CDF</Original>
+                <English>[PO]6B23 CDF</English>
+                <Russian>[PO]6Б23 ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_6Sh92_CDF">
+                <Original>[PO]6B23 CDF (6Sh92)</Original>
+                <English>[PO]6B23 CDF (6Sh92)</English>
+                <Russian>[PO]6Б23 ЧСО (6Ш92)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_CrewOfficer_CDF">
+                <Original>[PO]6B23 CDF (Crew Officer)</Original>
+                <English>[PO]6B23 CDF (Crew Officer)</English>
+                <Russian>[PO]6Б23 ЧСО (командир экипажа)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_CrewOfficer_OLV">
+                <Original>[PO]6B23 Olive (Crew Officer)</Original>
+                <English>[PO]6B23 Olive (Crew Officer)</English>
+                <Russian>[PO]6Б23 Олива (командир экипажа)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_Rifleman_CDF">
+                <English>[PO]6B23 CDF (Rifleman)</English>
+                <Original>[PO]6B23 CDF (Rifleman)</Original>
+                <Russian>[PO]6Б23 ЧСО (стрелок)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_Rifleman_OLV">
+                <English>[PO]6B23 Olive (Rifleman)</English>
+                <Original>[PO]6B23 Olive (Rifleman)</Original>
+                <Russian>[PO]6Б23 Олива (стрелок)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_Medic_CDF">
+                <English>[PO]6B23 CDF (Medic)</English>
+                <Original>[PO]6B23 CDF (Medic)</Original>
+                <Russian>[PO]6Б23 ЧСО (медик)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_Medic_OLV">
+                <English>[PO]6B23 Olive (Medic)</English>
+                <Original>[PO]6B23 Olive (Medic)</Original>
+                <Russian>[PO]6Б23 Олива (медик)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_Vog_OLV">
+                <English>[PO]6Sh92 (VOG) Olive</English>
+                <Original>[PO]6Sh92 (VOG) Olive</Original>
+                <Russian>[PO]6Б23 (ВОГ) Олива</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_Radio_OLV">
+                <English>[PO]6Sh92 (Radio) Olive</English>
+                <Original>[PO]6Sh92 (Radio) Olive</Original>
+                <Russian>[PO]6Ш92 (радио) Олива</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_CDF">
+                <English>[PO]6Sh92 CDF</English>
+                <Original>[PO]6Sh92 CDF</Original>
+                <Russian>[PO]6Ш92 ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_OLV">
+                <English>[PO]6Sh92 Olive</English>
+                <Original>[PO]6Sh92 Olive</Original>
+                <Russian>[PO]6Ш92 Олива</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TKA_Fatigue_01">
+                <English>[PO]Combat Uniform (TKA/tan)</English>
+                <Original>[PO]Combat Uniform (TKA/tan)</Original>
+                <Russian>[PO]Форма Сарани (Север, песочная)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_TKA_Fatigue_02">
+                <English>[PO]Combat Uniform (TKA/olive)</English>
+                <Original>[PO]Combat Uniform (TKA/olive)</Original>
+                <Russian>[PO]Форма Сарани (Север, олива)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_Vog_WDL">
+                <English>[PO]6Sh92 (VOG) Woodland</English>
+                <Original>[PO]6Sh92 (VOG) Woodland</Original>
+                <Russian>[PO]6Б23 (ВОГ) Вудланд</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_Radio_WDL">
+                <English>[PO]6Sh92 (Radio) Woodland</English>
+                <Original>[PO]6Sh92 (Radio) Woodland</Original>
+                <Russian>[PO]6Б23 (Радио) Вудланд</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6Sh92_WDL">
+                <English>[PO]6Sh92 Woodland</English>
+                <Original>[PO]6Sh92 Woodland</Original>
+                <Russian>[PO]6Ш92 Вудланд</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_RACS_Fatigue_01">
+                <English>[PO]Combat Uniform (RACS)</English>
+                <Original>[PO]Combat Uniform (RACS)</Original>
+                <Russian>[PO]Форма Сарани (Юг)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_RACS_Fatigue_01_slv">
+                <English>[PO]Combat Uniform (RACS/Rolled Up)</English>
+                <Original>[PO]Combat Uniform (RACS/Rolled Up)</Original>
+                <Russian>[PO]Форма Сарани (Юг, закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_RACS">
+                <English>[PO]6B27M RACS</English>
+                <Original>[PO]6B27M RACS</Original>
+                <Russian>[PO]6Б27М (Сарани-Юг)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_RACS">
+                <English>[PO]6B27M RACS (ESS)</English>
+                <Original>[PO]6B27M RACS (ESS)</Original>
+                <Russian>[PO]6Б27М (Сарани-Юг, ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Booniehat_RACS">
+                <English>[PO]Booniehat (RACS camo)</English>
+                <Original>[PO]Booniehat (RACS camo)</Original>
+                <Russian>[PO]Панама (Сарани-Юг)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Beret_UN">
+                <English>[PO]Beret UN</English>
+                <Original>[PO]Beret UN</Original>
+                <Russian>[PO]Берет ООН</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_UN">
+                <English>[PO]6B27M UN</English>
+                <Original>[PO]6B27M UN</Original>
+                <Russian>[PO]6Б27М ООН</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_6B27M_ess_UN">
+                <English>[PO]6B27M UN (ESS)</English>
+                <Original>[PO]6B27M UN (ESS)</Original>
+                <Russian>[PO]6Б27М ООН (ESS)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_UN_Fatigue_01">
+                <English>[PO]Combat Uniform (CDF)</English>
+                <Original>[PO]Combat Uniform (CDF)</Original>
+                <Russian>[PO]Форма ЧСО</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_UN">
+                <English>[PO]6B23 UN</English>
+                <Original>[PO]6B23 UN</Original>
+                <Russian>[PO]6Б23 ООН</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_6Sh92_UN">
+                <English>[PO]6B23 UN (6Sh92)</English>
+                <Original>[PO]6B23 UN (6Sh92)</Original>
+                <Russian>[PO]6Б23 ООН (6Ш92)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_CrewOfficer_UN">
+                <English>[PO]6B23 UN (Crew Officer)</English>
+                <Original>[PO]6B23 UN (Crew Officer)</Original>
+                <Russian>[PO]6Б23 ООН (командир экипажа)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_6B23_Rifleman_UN">
+                <English>[PO]6B23 UN (Rifleman)</English>
+                <Original>[PO]6B23 UN (Rifleman)</Original>
+                <Russian>[PO]6Б23 ООН (стрелок)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_SLA_Fatigue_01">
+                <English>[PO]Combat Uniform (SLA)</English>
+                <Original>[PO]Combat Uniform (SLA)</Original>
+                <Russian>[PO]Форма Сарани (Север)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_SSh68Helmet_OLV">
+                <English>[PO]SSh68 Steel Helmet (Grey)</English>
+                <Original>[PO]SSh68 Steel Helmet (Grey)</Original>
+                <Russian>[PO]СШ-68 (серая)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_SSh68Helmet_BLK">
+                <English>[PO]SSh68 Steel Helmet (Black)</English>
+                <Original>[PO]SSh68 Steel Helmet (Black)</Original>
+                <Russian>[PO]СШ-68 (черная)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_SSh68Helmet_TAN">
+                <English>[PO]SSh68 Steel Helmet (Tan)</English>
+                <Original>[PO]SSh68 Steel Helmet (Tan)</Original>
+                <Russian>[PO]СШ-68 (песочная)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_SLA_Beret">
+                <English>[PO]Beret SLA</English>
+                <Original>[PO]Beret SLA</Original>
+                <Russian>[PO]Берет (Сарани-Юг)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_Commander">
+                <English>[PO]Guerilla Coveralls (ChDKZ/Commander)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ/Commander)</Original>
+                <Russian>[PO]Форма ЧДКЗ (командир)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_01">
+                <English>[PO]Guerilla Coveralls (ChDKZ 01)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ 01)</Original>
+                <Russian>[PO]Форма ЧДКЗ 01</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_02">
+                <English>[PO]Guerilla Coveralls (ChDKZ 02)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ 02)</Original>
+                <Russian>[PO]Форма ЧДКЗ 02</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_03">
+                <English>[PO]Guerilla Coveralls (ChDKZ 03)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ 03)</Original>
+                <Russian>[PO]Форма ЧДКЗ 03</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_04">
+                <English>[PO]Guerilla Coveralls (ChDKZ 04)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ 04)</Original>
+                <Russian>[PO]Форма ЧДКЗ 04</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_ChDKZ_Fatigue_Bardak">
+                <English>[PO]Guerilla Coveralls (ChDKZ/Bardak)</English>
+                <Original>[PO]Guerilla Coveralls (ChDKZ/Bardak)</Original>
+                <Russian>[PO]Форма ЧДКЗ (Бардак)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_ChDKZ_Beret">
+                <English>[PO]ChDKZ beret</English>
+                <Original>[PO]ChDKZ beret</Original>
+                <Russian>[PO]Берет ЧДКЗ</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_NAPA_Fatigue_01">
+                <English>[PO]Guerilla Coveralls (Napa 01)</English>
+                <Original>[PO]Guerilla Coveralls (Napa 01)</Original>
+                <Russian>[PO]Форма НАПА 01</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_NAPA_Fatigue_02">
+                <English>[PO]Guerilla Coveralls (Napa 02)</English>
+                <Original>[PO]Guerilla Coveralls (Napa 02)</Original>
+                <Russian>[PO]Форма НАПА 02</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_NAPA_Fatigue_03">
+                <English>[PO]Guerilla Coveralls (Napa 03)</English>
+                <Original>[PO]Guerilla Coveralls (Napa 03)</Original>
+                <Russian>[PO]Форма НАПА 03</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_NAPA_Fatigue_04">
+                <English>[PO]Guerilla Coveralls (Napa/Prizrak)</English>
+                <Original>[PO]Guerilla Coveralls (Napa/Prizrak)</Original>
+                <Russian>[PO]Форма НАПА (Призрак)</Russian>
+            </Key>
+            <Key ID="STR_LOP_H_Cowboy_hat">
+                <English>[PO]Prizrak cowboy hat</English>
+                <Original>[PO]Prizrak cowboy hat</Original>
+                <Russian>[PO]Шляпа Призрака</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_UA_Fatigue_01">
+                <English>[PO]Guerilla Coveralls (Nationalist 01)</English>
+                <Original>[PO]Guerilla Coveralls (Nationalist 01)</Original>
+                <Russian>[PO]Форма националистов 01</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_UA_Fatigue_02">
+                <English>[PO]Guerilla Coveralls (Nationalist 02)</English>
+                <Original>[PO]Guerilla Coveralls (Nationalist 02)</Original>
+                <Russian>[PO]Форма националистов 02</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_UA_Fatigue_03">
+                <English>[PO]Guerilla Coveralls (Nationalist 03)</English>
+                <Original>[PO]Guerilla Coveralls (Nationalist 03)</Original>
+                <Russian>[PO]Форма националистов 03</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_UA_Fatigue_04">
+                <English>[PO]Guerilla Coveralls (Nationalist 04)</English>
+                <Original>[PO]Guerilla Coveralls (Nationalist 04)</Original>
+                <Russian>[PO]Форма националистов 04</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Chestrig_Kamysh">
+                <English>[PO]Pioner M-23 (Kamysh)</English>
+                <Original>[PO]Pioner M-23 (Kamysh)</Original>
+                <Russian>[PO]Пионер М-23 (Камыш)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Chestrig_VSR">
+                <English>[PO]Pioner M-23 (VSR-93)</English>
+                <Original>[PO]Pioner M-23 (VSR-93)</Original>
+                <Russian>[PO]Пионер М-23 (ВСР-93)</Russian>
+            </Key>
+            <Key ID="STR_LOP_V_Chestrig_Black">
+                <English>[PO]Pioner M-23 (Black)</English>
+                <Original>[PO]Pioner M-23 (Black)</Original>
+                <Russian>[PO]Пионер М-23 (Черная)</Russian>
+            </Key>
+			<Key ID="STR_LOP_ChDKZ_Infantry_Bardak">
+                <English>Bardak</English>
+                <Original>Bardak</Original>
+                <Russian>Бардак</Russian>
+            </Key>
+			<Key ID="STR_LOP_ChDKZ_Infantry_Commander">
+                <English>Commander</English>
+                <Original>Commander</Original>
+                <Russian>Командир</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_GL">
+                <English>Grenadier (AKM)</English>
+                <Original>Grenadier (AKM)</Original>
+                <Russian>Стрелок с ГП (АКМ)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_Marksman">
+                <English>Guerilla (SVD)</English>
+                <Original>Guerilla (SVD)</Original>
+                <Russian>Партизан (СВД)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_AT_Asst">
+                <English>Guerilla (RPG-7 Ammo)</English>
+                <Original>Guerilla (RPG-7 Ammo)</Original>
+                <Russian>Партизан (боеприпасы РПГ-7)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_Rifleman_3">
+                <English>Guerilla (AK-74)</English>
+                <Original>Guerilla (AK-74)</Original>
+                <Russian>Партизан (АК-74)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_Rifleman_2">
+                <English>Guerilla (RShG-2)</English>
+                <Original>Guerilla (RShG-2)</Original>
+                <Russian>Партизан (РШГ-2)</Russian>
+            </Key>
+			<Key ID="STR_LOP_AM_Infantry_Rifleman_3">
+                <English>Guerilla (Lee Enfield)</English>
+                <Original>Guerilla (Lee Enfield)</Original>
+                <Russian>Партизан (Lee Enfield)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_Rifleman">
+                <English>Guerilla (AKM)</English>
+                <Original>Guerilla (AKM)</Original>
+                <Russian>Партизан (АКМ)</Russian>
+            </Key>
+			<Key ID="STR_LOP_UA_Infantry_Rifleman">
+                <English>Guerilla (AKMS)</English>
+                <Original>Guerilla (AKMS)</Original>
+                <Russian>Партизан (АКМС)</Russian>
+            </Key>
+			<Key ID="STR_LOP_AM_Infantry_AT">
+                <English>Guerilla (RPG-7)</English>
+                <Original>Guerilla (RPG-7)</Original>
+                <Russian>Партизан (РПГ-7)</Russian>
+            </Key>
+			<Key ID="STR_LOP_NAPA_Infantry_TL">
+                <English>Militiaman Leader</English>
+                <Original>Militiaman Leader</Original>
+                <Russian>Командир партизан</Russian>
+            </Key>
+			<Key ID="STR_LOP_UA_Infantry_Rifleman_3">
+                <English>Guerilla (RPG-26)</English>
+                <Original>Guerilla (RPG-26)</Original>
+                <Russian>Партизан (РПГ-26)</Russian>
+            </Key>
+			<Key ID="STR_LOP_UA_Infantry_AT_Asst">
+                <English>Ammo bearer AT</English>
+                <Original>Ammo bearer AT</Original>
+                <Russian>Подносчик боеприпасов (РПГ)</Russian>
+            </Key>
+			<Key ID="STR_lop_m16a4">
+				<English>Rifleman (M16А4)</English>
+				<Original>Rifleman (M16)</Original>
+				<Russian>Стрелок (М16А4)</Russian>
+			</Key>
+			<Key ID="STR_lop_m4">
+				<English>Rifleman (M4)</English>
+				<Original>Rifleman (M4)</Original>
+				<Russian>Стрелок (М4)</Russian>
+			</Key>
+			<Key ID="STR_lop_rifleman_rpg26">
+				<English>Rifleman (RPG-26)</English>
+				<Original>Rifleman (RPG-26)</Original>
+				<Russian>Стрелок (РПГ-26)</Russian>
+			</Key>
+        </Container>
+    </Package>
+</Project>

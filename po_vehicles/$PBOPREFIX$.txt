@@ -1,0 +1,6 @@
+﻿///<'po_vehicles.pbo' properties via Mikero's dos tools, dll version 7.16>///
+prefix=po_vehicles
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: 'F0EDCEB1F86F18A3643A27DFBE73FEE26ED7B047'
+//////</properties>//////

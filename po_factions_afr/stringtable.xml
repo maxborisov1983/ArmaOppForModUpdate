@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="p_opf_afr">
+    <Package name="namesp_opf_afr">
+        <Container name="Names">
+            <Key ID="STR_LOP_U_AFR_Fatigue_02">
+                <English>Guerilla Coveralls (Pirat 02)</English>
+                <Original>Guerilla Coveralls (Pirat 02)</Original>
+                <Russian>Партизанская одежда (пират 02)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Fatigue_01">
+                <English>Guerilla Coveralls (Pirat 01)</English>
+                <Original>Guerilla Coveralls (Pirat 01)</Original>
+                <Russian>Партизанская одежда (пират 01)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Fatigue_03">
+                <English>Guerilla Coveralls (Pirat 03)</English>
+                <Original>Guerilla Coveralls (Pirat 03)</Original>
+                <Russian>Партизанская одежда (пират 03)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Fatigue_04">
+                <English>Guerilla Coveralls (Pirat 04)</English>
+                <Original>Guerilla Coveralls (Pirat 04)</Original>
+                <Russian>Партизанская одежда (пират 04)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Fatigue_04_slv">
+                <English>Guerilla Coveralls (Rolled Up)</English>
+                <Original>Guerilla Coveralls (Rolled Up)</Original>
+                <Russian>Партизанская одежда (закатанные рукава)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_01">
+                <English>Civilian Clothes (African 01)</English>
+                <Original>Civilian Clothes (African 01)</Original>
+                <Russian>Гражданская одежда (Африка 1)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_02">
+                <English>Civilian Clothes (African 02)</English>
+                <Original>Civilian Clothes (African 02)</Original>
+                <Russian>Гражданская одежда (Африка 2)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_03">
+                <English>Civilian Clothes (African 03)</English>
+                <Original>Civilian Clothes (African 03)</Original>
+                <Russian>Гражданская одежда (Африка 3)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_04">
+                <English>Civilian Clothes (African 04)</English>
+                <Original>Civilian Clothes (African 04)</Original>
+                <Russian>Гражданская одежда (Африка 4)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_05">
+                <English>Civilian Clothes (African 05)</English>
+                <Original>Civilian Clothes (African 05)</Original>
+                <Russian>Гражданская одежда (Африка 5)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_06">
+                <English>Civilian Clothes (African 06)</English>
+                <Original>Civilian Clothes (African 06)</Original>
+                <Russian>Гражданская одежда (Африка 6)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_01S">
+                <English>Civilian Clothes (African/Short 01)</English>
+                <Original>Civilian Clothes (African/Short 01)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 1)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_02S">
+                <English>Civilian Clothes (African/Short 02)</English>
+                <Original>Civilian Clothes (African/Short 02)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 2)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_03S">
+                <English>Civilian Clothes (African/Short 03)</English>
+                <Original>Civilian Clothes (African/Short 03)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 3)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_04S">
+                <English>Civilian Clothes (African/Short 04)</English>
+                <Original>Civilian Clothes (African/Short 04)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 4)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_05S">
+                <English>Civilian Clothes (African/Short 05)</English>
+                <Original>Civilian Clothes (African/Short 05)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 5)</Russian>
+            </Key>
+            <Key ID="STR_LOP_U_AFR_Civ_06S">
+                <English>Civilian Clothes (African/Short 06)</English>
+                <Original>Civilian Clothes (African/Short 06)</Original>
+                <Russian>Гражданская одежда (Африка, шорты 5)</Russian>
+            </Key>
+			<Key ID="STR_lop_warlord">
+				<English>Warlord</English>
+				<Original>Warlord</Original>
+				<Russian>Главнокомандующий</Russian>
+			</Key>
+			<Key ID="STR_lop_bonesetter">
+				<English>Bonesetter</English>
+				<Original>Bonesetter</Original>
+				<Russian>Костоправ</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_rpg">
+				<English>Pirate (RPG-7)</English>
+				<Original>Pirate (RPG-7)</Original>
+				<Russian>Пират (РПГ-7)</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_svd">
+				<English>Pirate (SVD)</English>
+				<Original>Pirate (SVD)</Original>
+				<Russian>Пират (СВД)</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_bomber">
+				<English>Bomber</English>
+				<Original>Bomber</Original>
+				<Russian>Подрывник</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_akm">
+				<English>Pirate (AKM)</English>
+				<Original>Pirate (AKM)</Original>
+				<Russian>Пират (АКМ)</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_m16">
+				<English>Pirate (M16A4)</English>
+				<Original>Pirate (M16A4)</Original>
+				<Russian>Пират (М16А4)</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_smle">
+				<English>Pirate (Lee Enfield)</English>
+				<Original>Pirate (Lee Enfield)</Original>
+				<Russian>Пират (Lee Enfield)</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_driver">
+				<English>Pirate Driver</English>
+				<Original>Pirate Driver</Original>
+				<Russian>Пират водитель</Russian>
+			</Key>
+			<Key ID="STR_lop_pirat_gp">
+				<English>Pirate Grenadier</English>
+				<Original>Pirate Grenadier</Original>
+				<Russian>Пират с ГП</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_01">
+				<English>Men 01</English>
+				<Original>Men 01</Original>
+				<Russian>Гражданский 01</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_02">
+				<English>Men 02</English>
+				<Original>Men 02</Original>
+				<Russian>Гражданский 02</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_03">
+				<English>Men 03</English>
+				<Original>Men 03</Original>
+				<Russian>Гражданский 03</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_04">
+				<English>Men 04</English>
+				<Original>Men 04</Original>
+				<Russian>Гражданский 04</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_05">
+				<English>Men 05</English>
+				<Original>Men 05</Original>
+				<Russian>Гражданский 05</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_06">
+				<English>Men 06</English>
+				<Original>Men 06</Original>
+				<Russian>Гражданский 06</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_01_S">
+				<English>Men 01 (shorts)</English>
+				<Original>Men 01 (shorts)</Original>
+				<Russian>Гражданский 01 (шорты)</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_02_S">
+				<English>Men 02 (shorts)</English>
+				<Original>Men 02 (shorts)</Original>
+				<Russian>Гражданский 02 (шорты)</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_03_S">
+				<English>Men 03 (shorts)</English>
+				<Original>Men 03 (shorts)</Original>
+				<Russian>Гражданский 03 (шорты)</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_04_S">
+				<English>Men 04 (shorts)</English>
+				<Original>Men 04 (shorts)</Original>
+				<Russian>Гражданский 04 (шорты)</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_05_S">
+				<English>Men 05 (shorts)</English>
+				<Original>Men 05 (shorts)</Original>
+				<Russian>Гражданский 05 (шорты)</Russian>
+			</Key>
+			<Key ID="STR_LOP_AFR_Civ_Man_06_S">
+				<English>Men 06 (shorts)</English>
+				<Original>Men 06 (shorts)</Original>
+				<Russian>Гражданский 06 (шорты)</Russian>
+			</Key>
+        </Container>
+    </Package>
+</Project>
